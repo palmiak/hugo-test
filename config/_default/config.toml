@@ -1,4 +1,4 @@
-baseurl = "https://hyas.netlify.app/"
+baseurl = "https://dreamy-euler-de570c.netlify.app/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
